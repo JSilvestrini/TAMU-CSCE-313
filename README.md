@@ -10,11 +10,12 @@ This will be used to display the work I did in the course and not meant to be us
 ##
 ### Programming Assignment 1 - Creating a Client Server using Named Pipes
 
-  ##### Completed - Local Tests Pass
+  ##### Completed - All Local Tests Pass
 
 ### Programming Assignment 2 - Aggie Shell
 
-  ##### Completed -TBA
+  ##### Completed - All Local Tests Pass, Except Echo
+  ###### Not quite sure what the issue is, but echo will not print out to the console if the input is more than 15 characters.
 
 ### Programming Assignment 3 - Threading and Synchronization
 
