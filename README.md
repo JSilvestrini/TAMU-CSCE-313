@@ -10,22 +10,42 @@ This will be used to display the work I did in the course and not meant to be us
 ##
 ### Programming Assignment 1 - Creating a Client Server using Named Pipes
 
+  #### Description:
+  
+  #### Status:
+  
   ##### Completed - All Local Tests Pass
 
 ### Programming Assignment 2 - Aggie Shell
 
+  #### Description:
+  
+  #### Status:
+  
   ##### Completed - All Local Tests Pass, Except Echo
-  ###### Not quite sure what the issue is, but echo will not print out to the console if the input is more than 15 characters.
+  ##### Not quite sure what the issue is, but echo will not print out to the console if the input is more than 15 characters.
 
 ### Programming Assignment 3 - Threading and Synchronization
+  
+  #### Description:
+  
+  #### Status:
 
   ##### Completed -TBA
 
 ### Programming Assignment 4 - The Server Moved Out!
 
+  #### Description:
+  
+  #### Status:
+
   ##### Completed -TBA
 
 ### Programming Assignment 5 - Spoofing and Sniffing
+
+  #### Description:
+  
+  #### Status:
 
   ##### Completed -TBA
 ##
